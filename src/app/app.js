@@ -4,6 +4,7 @@
   var ngModule = angular.module('SC5AngularBoilerplate', [
     'ui.router',
     'templates',
+    // -- APPEND ITEMS HERE --
     'app.header',
     'app.footer',
     'app.pages'
